@@ -17,12 +17,14 @@
 }
 .footer{
 	right:50px;
+	text-align:right;
 	top:160px;
 	position:absolute;
 	text-style:italic;
 }
 .footer-2{
 	position:absolute;
-	top:260px;
+	top:270px;
 	right:50px;
+	text-align:right;
 }
